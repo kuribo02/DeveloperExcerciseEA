@@ -50,11 +50,21 @@ When you are done the exercise, commit all your work in github and push it up to
 Please answer each of the following questions within the README.md file of your application repo (and be sure to commit it!). You only need a couple lines per answer, and point form answers are fine.
 
 0. Which browser would you prefer we test this in?
+Google Chrome.
 
 0. How long did you work on this programming exercise for?
+About 3 hours. 
 
 0. What websites did you use to help you complete this exercise? Please provide links.
+*To create and find the position of the images on the sprite used http://spritepad.wearekiss.com/
+*Perfect pixel chrome addon to improve the design. http://www.welldonecode.com/perfectpixel/
 
 0. If you had more time, how would you improve your implementation?
+*I would like to make it more precise. The margins, font size, etc.
+*Check and add a better cross browser compatibility (webkit, o, moz, etc.)
+*Try the website in another devices: tablets, smartphones. 
+*Ask for advice to more experienced developers.
 
 0. Anything else you'd like us to know?
+"# DeveloperExcerciseEA" 
+I expect to improve a lot in the following months since I'm still quite new, but quite a fast learner and a good self taught person. I hope you like my work I'm looking forward to work for such a great company. 
