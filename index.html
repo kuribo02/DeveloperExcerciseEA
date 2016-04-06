@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <nav class="topMenu">
+        <ul>
+            <li class="topMenu__li" onclick="openSideMenu()"> MENU <span class="topMenu__hamb"></span></li>
+            <li class="topMenu__li">NEWS & MEDIA</li>
+            <li class="topMenu__li">FIVE WAYS TO PLAY</li>
+            <li class="topMenu__li">PRE-ORDER</li>
+        </ul>
+    </nav>
+    
+    <nav class="slideMenu" id="sideMenu">
+        <ul>   
+            <li><a class="slideMenu__cross" onclick="closeSideMenu()"><a></li>
+            <li class="slideMenu__li"><a href="">NEWS & MEDIA</a></li>        
+            <li class="slideMenu__li"><a href="">FIVE WAYS TO PLAY</a></li>
+            <li class="slideMenu__li"><a href="">PRE-ORDER </a><div class="slideMenu__arrow"></div></li>
+            <li class="slideMenu__li"><a href="">MORE GAMES </a><div class="slideMenu__plus"></div></li>
+            <li class="slideMenu__li">
+                <div class="slideMenu__face"></div>
+                <div class="slideMenu__twitter"></div>
+                <div class="slideMenu__youtube"></div>
+            </li>
+        </ul>    
+    </nav>
+    
+    <script src="main.js"></script>
+    </body>
+</html> 
